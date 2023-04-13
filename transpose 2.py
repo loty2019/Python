@@ -2,7 +2,7 @@ import stdarray
 import stdio
 
 
-# Entry point (DO NOT EDIT).
+# Entry point.
 def main():
     a = stdarray.readFloat2D()
     c = _transpose(a)

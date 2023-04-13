@@ -36,7 +36,7 @@ class Rectangle:
         return str(self._xint) + " x " + str(self._yint)
 
 
-# Unit tests the data type (DO NOT EDIT).
+# Unit tests the data type.
 def _main():
     x = float(sys.argv[1])
     y = float(sys.argv[2])

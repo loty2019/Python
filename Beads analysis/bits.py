@@ -2,7 +2,7 @@ import stdio
 import sys
 
 
-# Entry point. [DO NOT EDIT].
+# Entry point.
 def main():
     s = sys.argv[1]
     stdio.writef('zeros = %d, ones = %d, total = %d\n', _zeros(s), _ones(s), len(s))

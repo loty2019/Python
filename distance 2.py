@@ -3,7 +3,7 @@ import stdarray
 import stdio
 
 
-# Entry point (DO NOT EDIT).
+# Entry point.
 def main():
     x = stdarray.readFloat1D()
     y = stdarray.readFloat1D()

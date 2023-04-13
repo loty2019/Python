@@ -30,7 +30,7 @@ class Blob:
         return '%d (%.4f, %.4f)' % (self._pixels, self._x, self._y)
 
 
-# Unit tests the data type (DO NOT EDIT).
+# Unit tests the data type.
 def _main():
     a = Blob()
     a.add(0, 0)

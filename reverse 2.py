@@ -1,7 +1,7 @@
 import stdio
 
 
-# Entry point (DO NOT EDIT).
+# Entry point.
 def main():
     a = stdio.readAllStrings()
     _reverse(a)

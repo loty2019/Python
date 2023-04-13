@@ -2,7 +2,7 @@ import stdio
 import sys
 
 
-# Entry point [DO NOT EDIT].
+# Entry point.
 def main():
     s = sys.argv[1]
     stdio.writeln(_isPalindrome(s))

@@ -19,7 +19,7 @@ class Point:
         return "(" + str(self._x) + ", " + str(self._y) + ")"
 
 
-# Unit tests the data type (DO NOT EDIT).
+# Unit tests the data type.
 def _main():
     x1, y1, x2, y2 = map(float, sys.argv[1:])
     p1 = Point(x1, y1)

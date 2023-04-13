@@ -61,7 +61,7 @@ class BlobFinder:
         self._findBlob(pic, tau, i, j - 1, marked, blob)
 
 
-# Unit tests the data type (DO NOT EDIT).
+# Unit tests the data type.
 def _main():
     pixels = int(sys.argv[1])
     tau = float(sys.argv[2])

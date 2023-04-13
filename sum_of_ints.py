@@ -2,7 +2,7 @@ import stdio
 import sys
 
 
-# Entry point [DO NOT EDIT].
+# Entry point.
 def main():
     n = int(sys.argv[1])
     stdio.writeln(_sumOfInts(n))

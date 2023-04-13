@@ -34,7 +34,7 @@ class Interval:
         return "[" + str(self._lbound) + ", " + str(self._ubound) + "]"
 
 
-# Unit tests the data type (DO NOT EDIT).
+# Unit tests the data type.
 def _main():
     x = float(sys.argv[1])
     intervals = []

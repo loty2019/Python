@@ -3,7 +3,7 @@ import stdio
 import sys
 
 
-# Entry point (DO NOT EDIT).
+# Entry point.
 def main():
     x = math.radians(float(sys.argv[1]))
     stdio.writeln(_sin(x))

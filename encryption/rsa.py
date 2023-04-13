@@ -107,7 +107,7 @@ def _choice(a):
     return a[r]
 
 
-# Unit tests the library [DO NOT EDIT].
+# Unit tests the library.
 def _main():
     x = ord(sys.argv[1])
     n, e, d = keygen(25, 100)
